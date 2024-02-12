@@ -1,7 +1,7 @@
 # Parking system 
 
 ## Components:
-### Arduino UNO: This is the main microcontroller that controls the entire system. It processes the input from sensors and controls the output devices.
+### Arduino MEGA: This is the main microcontroller that controls the entire system. It processes the input from sensors and controls the output devices.
 
 ### IR Proximity Sensor: These sensors are used to detect the presence of a car in a parking space. You might have placed them at strategic locations in your parking area.
 
